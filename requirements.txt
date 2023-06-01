@@ -1,0 +1,4 @@
+cprint==1.2.2
+opencv_contrib_python==4.7.0.72
+Pillow==9.5.0
+Pillow==9.5.0
